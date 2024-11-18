@@ -32,15 +32,7 @@ return {
         black = "#191A21",
       },
       show_end_of_buffer = true,    -- default false
-<<<<<<< HEAD
-      transparent_bg = false,       -- default false
-=======
-<<<<<<< HEAD
-      transparent_bg = false,       -- default false
-=======
-      transparent_bg = true,        -- default false
->>>>>>> 034704e (Initial commit)
->>>>>>> 7840375 (Initial commit with local changes)
+      transparent_bg = true,        -- default false (change kept as transparent)
       lualine_bg_color = "#44475a", -- default nil
       bold_comment = true,          -- default false
       overrides = {},
@@ -50,3 +42,4 @@ return {
     --vim.cmd([[colorscheme dracula-soft]])
   end,
 }
+

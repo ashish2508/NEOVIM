@@ -26,14 +26,6 @@ return {
     mason_lspconfig.setup({
       -- list of servers for mason to install
       ensure_installed = {
-<<<<<<< HEAD
-        "tsserver",
-=======
-<<<<<<< HEAD
-        "tsserver",
-=======
->>>>>>> 034704e (Initial commit)
->>>>>>> 7840375 (Initial commit with local changes)
         "html",
         "cssls",
         "tailwindcss",
